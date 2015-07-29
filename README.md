@@ -1,2 +1,1 @@
-# enterprise-docs
-Documentation for https://enterprise.packagecloud.io
+####For the [packagecloud:enterprise](https://enterprise.packagecloud.io) documentation, visit the [wiki](https://github.com/computology/enterprise-docs/wiki).
